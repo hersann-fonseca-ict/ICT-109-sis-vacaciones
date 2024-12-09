@@ -1,4 +1,4 @@
-# Front-end: Sistema de Vacaciones
+# Sistema de Vacaciones
 
 ## Descripción
 
