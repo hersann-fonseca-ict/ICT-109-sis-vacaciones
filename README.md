@@ -1,8 +1,8 @@
-# Front-end: Sistema de Gestión
+# Front-end: Sistema de Vacaciones
 
 ## Descripción
 
-Esta aplicación permite la Administración de Gestión
+Esta aplicación permite la Administración de Vacaciones
 
 **Tecnologías:**
 
